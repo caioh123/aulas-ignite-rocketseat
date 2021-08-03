@@ -1,2 +1,0 @@
-# aulas-ignite-rocketseat
-Bootcamp
